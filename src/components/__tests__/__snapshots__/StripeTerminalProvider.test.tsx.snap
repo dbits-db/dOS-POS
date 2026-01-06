@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`StripeTerminalProvider.tsx renders children correctly 1`] = `
-<Text>
-  test text
-</Text>
-`;
