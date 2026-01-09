@@ -6,6 +6,7 @@
 
 ## Guidelines
 
+- **Maintain CLAUDE.md**: Update this file when workflows change, issues are discovered, or new patterns are established
 - **No Co-Authored-By**: Do not include `Co-Authored-By: Claude...` in commit messages
 - **ITFlow format**: Identifiers use `t`/`i`/`q` + YY + digits (e.g. `i260045`), no hyphens
 
